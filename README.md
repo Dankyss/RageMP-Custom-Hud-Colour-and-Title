@@ -2,6 +2,8 @@
 
 Made for RAGEMP only tested on 1.1
 
+[rage.mp post](https://rage.mp/files/file/412-custom-hud-colour-and-title)
+
 ## Description
 
 When the player is ready it invokes the natives and sets the pause menu title text. To change the colour or text please read the comments in hud.js It replaces the weaspon wheel colour and pause menu accent colour
